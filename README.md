@@ -1,2 +1,2 @@
-# Projet-no-7-SE
-Projet 7 jeu Belote : Mocanu Stefania &amp; Patru Marius
+<h1> Projet-no-7-SE </h1>
+<h2> Projet 7 Jeu Belote : Mocanu Stefania &amp; Patru Marius </h2>
